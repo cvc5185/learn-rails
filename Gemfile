@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 ruby '2.4.1'
-gem 'rails', '~> 5.1.2'
+gem 'rails', '~> 5.2.3'
 
 # Rails defaults
 gem 'sqlite3'
@@ -25,6 +25,7 @@ end
 # learn-rails
 gem 'bootstrap-sass'
 gem 'gibbon'
+gem 'bootsnap'
 gem 'high_voltage'
 gem 'jquery-rails'
 group :development do
